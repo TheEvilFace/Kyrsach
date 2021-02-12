@@ -10,10 +10,10 @@ npm install
 ```
 
 ### Шаг второй:
-Зайти в файлик `src/http-common.js` и изменить адрес API(baseURL)
+Зайти в файлик `src/http-common.js` и изменить адрес baseURL на `yourdomain.com/v1/api`
 
 ### Шаг третий:
 ```
 quasar dev
 ```
-
+После выполнений данных действий, должен открыться сайт в браузере
