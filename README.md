@@ -10,7 +10,7 @@ npm install
 ```
 
 ### Шаг второй:
-Зайти в файлик src - http-common.js и изменить адрес API(baseURL)
+Зайти в файлик 'src/http-common.js' и изменить адрес API(baseURL)
 
 ### Шаг третий:
 ```
