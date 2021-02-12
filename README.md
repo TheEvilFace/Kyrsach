@@ -2,21 +2,14 @@
 
 Разработано специально для курсовой работы
 
-## Install the dependencies
-```bash
-npm install
-```
+### Метод запуска в Dev режиме:
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+### Шаг первый:
+Прописать npm install
 
+### Шаг второй:
+Зайти в файлик src - http-common.js и изменить адрес API(baseURL)
 
-### Build the app for production
-```bash
-quasar build
-```
+### Шаг третий:
+Прописать quasar dev
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
